@@ -1,3 +1,0 @@
-Recovery checklist
-- Verify the last stable snapshot
-- Restore the deleted content
